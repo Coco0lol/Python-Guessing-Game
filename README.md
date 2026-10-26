@@ -1,2 +1,2 @@
 # Python-Guessing-Game
-My very first Python project - a number guessing game
+My very first Python project - a number guessing game. This game ask you a few questions about yourself then asks you to guess a number from 1-10. If you get the answer wrong the game will allow you to keep guessing, and give you clues until you get the correct answer. Copy and Paste the code to a Python program, such as https://www.programiz.com/python-programming/online-compiler/ (this is the program I used) to run and thest the game.
